@@ -1,0 +1,4 @@
+Cổ phiếu <{1}> gây sốt, <tăng trần| đạt mức {2} nghìn đồng cùng <thanh khoản cao|.
+<{1}> đã có cú bứt phá mạnh mẽ, kết thúc phiên giao dịch ngày <{0}] tại mức giá <trần| {2} nghìn đồng.
+Cổ phiếu "tung cánh" đi lên, lệnh mua chất vào khiến <{1}> dễ dàng <tăng trần| lên {2} nghìn đồng và khớp lệnh gần {3} triệu cổ phiếu.
+Kết thúc phiên giao dịch ngày <{0}], cổ phiếu <{1}> <tăng trần| lên {2} nghìn đồng.

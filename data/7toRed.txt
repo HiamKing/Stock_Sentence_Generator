@@ -1,0 +1,4 @@
+Ngày <{0}], <{1}> trải qua phiên giao dịch tương đối khó khăn khi <giảm| giá mất {3}%.
+Kết thúc ngày giao dịch nhiều sóng gió, <{1}> đã đánh <mất sắc xanh| của mình.
+<{1}> đã <có lúc tăng| giá, tuy nhiên vẫn <mất điểm| khi đóng cửa, <giảm| {5} đồng so với giá tham chiếu.
+<Có thời điểm tăng| {2}%, nhưng <{1}> đã chững lại và giảm giá. Kết thúc ngày giao dịch <{0}] giá trị cổ phiếu {1} <giảm| {3}%.

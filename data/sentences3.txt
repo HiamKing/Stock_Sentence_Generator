@@ -1,0 +1,7 @@
+Giao dịch cao nhất là <{0}> đạt có {1} triệu cổ phiếu, đứng vị trí kế tiếp là <{2}> với {3} triệu, <{4}> với {5} triệu, <{6}> với {7} triệu và <{8}> với {9} triệu.
+Riêng <{0}> <{10}| {11} đồng và nằm trong nhóm những chứng khoán có <lượng giao dịch cao| trong ngày (trên 5 triệu cổ phiếu).Đáng chú ý, lượng khớp lệnh của <{2}>  đã cao hơn so với <{4}>.
+<{0}>, <{2}> và <{4}> là các cổ phiếu được giao dịch chủ yếu trong phiên,riêng 3 loại này chiếm tới {12}% giá trị giao dịch toàn thị trường.
+So với hôm qua lượng giao dịch đã <tăng mạnh|,dẫn đầu là <{0}> với {1} triệu cổ phiếu, <{2}> là {3} triệu cổ phiếu, <{4}> {5} cổ phiếu.
+Top 5 cổ phiếu giao dịch nhiều nhất VN30 gồm: <{0}>, <{2}>, <{4}>, <{6}> và <{8}>, trong đó <{0}> dẫn đầu với hơn {1} triệu cổ phiếu được mua bán.
+<{0}> dẫn đầu thị trường về khối lượng giao dịch với {1} triệu cổ phiếu, giá <{10}| {11} đồng, <{2}> cũng được nhiều nhà đầu tư quan tâm với {3} triệu cổ phiếu khớp lệnh.
+Khối lượng giao dịch của phiên tập trung vào các cổ phiếu như <{0}> {1} triệu , <{2}> {3} triệu,<{4}> {5} triệu cổ phiếu, số còn lại đều có lượng giao dịch dưới {7} triệu cổ phiếu.

@@ -1,0 +1,4 @@
+Ngày <{0}], <{1}> trải qua phiên giao dịch tương đối thành công khi <tăng| giá lên {3}% với {4} triệu cổ phiếu khớp lệnh.
+Kết thúc ngày giao dịch nhiều sóng gió, <{1}> đã thành công trong việc "<đổi màu|" từ <đỏ sang xanh|.
+<{1}> đã <có lúc giảm khá sâu| ({2}%), tuy nhiên vẫn kết thúc ngày giao dịch thắng lợi, <tăng| {5} đồng.
+<Có thời điểm giảm| {2}%, nhưng <{1}> đã lội ngược dòng thành công khi kết thúc ngày giao dịch trong sắc xanh, giá trị cổ phiếu <tăng| {3}%.

@@ -1,0 +1,10 @@
+﻿Ở chiều ngược lại, trong số {0} <mã giảm giá| của ngày <{3}], <{4}> <giảm|  nhiều nhất trong nhóm
+Theo thống kê của TTGDCK TP HCM, kết thúc đợt khớp lệnh thứ hai có {2} <mã tăng giá|, {1} <mã đứng giá| và {0} <mã giảm giá|.
+Trong khi ở đợt khớp lệnh thứ nhất, thị trường vẫn trong thế <giằng co| với {2} <mã tăng giá|, {1} <mã đứng giá| và {0} <mã giảm giá|.
+Phía tăng giá có {6} mã <tăng trên 5%| và số mã <giảm trên 5%| cũng có {7} mã trong ngày <{3}].
+Tổng cộng có {2} <mã tăng giá| trong ngày <{3}], trong đó, {6} mã có mức <tăng trên 5%|
+Trong ngày <{3}] toàn sàn có {0} <mã giảm|, có {7} mã <giảm trên 5%|
+Trong ngày <{3}] {0} <mã giảm giá|, <{4}> <giảm mạnh| nhất với {8}%;
+Trong {1} <mã tăng giá|, <{5}> <tăng mạnh| nhất với {9}%;
+Ngoài <{5}>,hôm nay (<{3}]) nhóm <VN30| còn có {2} <mã tăng giá| khác, trong khi số <mã giảm giá| là {0} mã.
+Trong phiên ngày <{3}], tính cả <{5}> có mức <tăng mạnh| nhất, nhóm VN30 có {2} <mã tăng giá| tổng cộng, trong khi có {0} mã giảm giá.

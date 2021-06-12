@@ -1,0 +1,4 @@
+<{1}> <giảm sàn| trắng bên mua, đóng cửa tại {2} nghìn đồng.
+Áp lực bán khổng lồ, <{1}> <giảm sàn| về mức {2} nghìn đồng.
+Sau ngày giao dịch <{0}], cổ phiếu <{1}> <chạm đáy|, đóng cửa tại {2} nghìn đồng.
+Cổ phiếu <{1}> <giảm xuống giá sàn|, mất giá {3}% về {2} nghìn đồng sau phiên giao dịch ngày <{0}].

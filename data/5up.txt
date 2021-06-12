@@ -1,0 +1,5 @@
+<{1}> tiếp tục "show diễn" tăng giá mạnh mẽ. {2} phiên giao dịch gần đây, {1} khiến những người chốt lãi ăn non nuối tiếc khi bứt phá <tăng liên tục|.
+Cổ phiếu <{1}> đã trải qua {2} phiên <tăng liên tiếp| gần đây.
+Tính đến hết phiên giao dịch ngày <{0}], cổ phiếu <{1}> đã <liên tục tăng| trong {2} phiên liên tiếp.
+Với việc tiếp tục tăng thêm {3}% sau phiên ngày <{0}], cổ phiếu <{1}> đã <giữ sắc xanh| trong {2} phiên giao dịch gần nhất.
+Chuỗi ngày thăng hoa của <{1}> chưa có dấu hiệu dừng lại khi cổ phiếu này lại <tiếp tục tăng| thêm {3}% sau ngày giao dịch <{0}]. Vậy <{1}> đã <tăng liên tục| trong {2} phiên giao dịch gần đây.

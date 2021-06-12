@@ -1,0 +1,5 @@
+<{1}> tiếp tục chuỗi ngày thất vọng. Áp lực bán gia tăng khiến cổ phiếu <{1}> <liên tục giảm| giá.
+Cổ phiếu <{1}> đã trải qua {2} phiên <giảm liên tiếp| gần đây.
+Tính đến hết phiên giao dịch ngày <{0}], cổ phiếu <{1}> đã <liên tục giảm| trong {2} phiên liên tiếp.
+Với việc tiếp tục <giảm| thêm {3}% sau phiên ngày <{0}], cổ phiếu <{1}> đã <giữ sắc đỏ| trong {2} phiên giao dịch gần nhất.
+Tình hình của cổ phiếu <{1}> là không mấy khả quan sau ngày giao dịch <{0}]. Với việc tiếp tục <giảm| giá thêm {3}, <{1}> đã {2} phiên liên tục đóng cửa trong sắc đỏ.

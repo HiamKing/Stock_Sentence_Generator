@@ -1,0 +1,10 @@
+<10 phiên gần nhất|, <khối lượng giao dịch trung bình| của <{2}> đạt gần {3} cổ phiếu, chỉ bằng {4}% so với mã <{0}>.
+<Khối lượng giao dịch trung bình| của cổ phiếu <{5}> trong <10 phiên gần nhất| chỉ đạt {6} đơn vị
+Về thanh khoản , <khối lượng giao dịch trung bình| <10 phiên giao dịch| gần nhất của <{2}> chỉ ở mức quanh {3} cổ phiếu, {5} là {6} cổ phiếu
+<10 phiên gần nhất|, <khối lượng giao dịch trung bình| của <{5}> đạt {6} cổ phiếu.
+Đáng chú ý, trong ngày <{10}] <khối lượng giao dịch trung bình| của cổ phiếu <{5}> trong <10 phiên gần đây| trở lại đây chỉ khoảng {6} cổ phiếu mỗi phiên.
+Tuy nhiên, vấn đề lớn nhất của <{2}> là thanh khoản kém khi <khối lượng giao dịch| trung bình <10 phiên trở lại| đây chỉ vào khoảng {3} đơn vị.
+Tương tự là <{7}>, cũng đã có {8} cổ phiếu được sang tay ngày <{10}], cao hơn nhiều <khối lượng giao dịch trung bình| <10 phiên gần nhất|.
+<Khối lượng giao dịch| của <{7}> đạt {8} đơn vị, cao hơn nhiều so với thanh khoản trung bình của <10 phiên gần nhất|.
+<Khối lượng giao dịch| của <{7}> gia tăng rất mạnh trong đợt tăng giá này, <khối lượng giao dịch trung bình| 10 ngày đi lên nhanh chóng.
+Hiện tại trong ngày <{10}] <{7}> nằm ở nhóm thanh khoản cao với <khối lượng giao dịch| trung bình của <10 phiên gần nhất| là {8} triệu cổ phiếu.

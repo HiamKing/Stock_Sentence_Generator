@@ -1,0 +1,4 @@
+Mở cửa phiên dao dịch hôm <{0}], cổ phiếu <{1}> <{7}|, biến đổi <{8}| đồng , đạt {3} đồng/cổ phiếu.
+Đến cuối phiên, cổ phiếu <{1}> <{7}|, giá {3} đồng/cp với khối lượng giao dịch gần {6} triệu cổ phiếu.
+Giá mở cửa cổ phiếu <{1}> trong phiên giao dịch <{0}] là {2} đồng, lúc cao nhất là {4} đồng, kết thúc phiên giá đóng cửa là {3} đồng và tổng khối lượng giao dịch đạt {6} triệu đơn vị.
+Cổ phiếu <{1}> <{7}| so với ngày hôm qua trong phiên giao dịch và mang <{10}|.
